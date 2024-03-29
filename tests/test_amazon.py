@@ -17,6 +17,7 @@ class TestAmazon:
         print("This is a title:---",self.driver.title)
         self.Am.click_on_searchBtn()
         self.Am.all_products_name()
+        print("pass")
 
         self.window = self.driver.window_handles
         print(self.window)
