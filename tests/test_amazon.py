@@ -19,6 +19,8 @@ class TestAmazon:
         self.Am.all_products_name()
         print("pass")
         print("pass")
+        print("pass")
+
 
 
         # self.window = self.driver.window_handles
