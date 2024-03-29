@@ -1,3 +1,3 @@
 {
-  "test_amazon.py": true
+  "test_amazon.py::TestAmazon::test_amz": true
 }

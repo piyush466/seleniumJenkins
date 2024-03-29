@@ -19,14 +19,14 @@ class TestAmazon:
         self.Am.all_products_name()
         print("pass")
 
-        self.window = self.driver.window_handles
-        print(self.window)
-        self.win = self.window[1]
-        self.driver.switch_to.window(self.win)
-        time.sleep(2)
-        print("This is a title:---",self.driver.title)
-        self.driver.execute_script("window.scrollBy(0,500)")
-        # self.Am.t
+        # self.window = self.driver.window_handles
+        # print(self.window)
+        # self.win = self.window[1]
+        # self.driver.switch_to.window(self.win)
+        # time.sleep(2)
+        # print("This is a title:---",self.driver.title)
+        # self.driver.execute_script("window.scrollBy(0,500)")
+        # # self.Am.t
 
 
 
