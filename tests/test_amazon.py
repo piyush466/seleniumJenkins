@@ -18,6 +18,8 @@ class TestAmazon:
         self.Am.click_on_searchBtn()
         self.Am.all_products_name()
         print("pass")
+        print("pass")
+
 
         # self.window = self.driver.window_handles
         # print(self.window)
