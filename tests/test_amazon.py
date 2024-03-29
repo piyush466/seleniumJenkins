@@ -20,6 +20,7 @@ class TestAmazon:
         print("pass")
         print("pass")
         print("pass")
+        print("pass")
 
 
 
